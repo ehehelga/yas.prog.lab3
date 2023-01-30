@@ -1,0 +1,15 @@
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\bin\Debug\net6.0\prog_lang3.exe
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\bin\Debug\net6.0\prog_lang3.deps.json
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\bin\Debug\net6.0\prog_lang3.runtimeconfig.json
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\bin\Debug\net6.0\prog_lang3.dll
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\bin\Debug\net6.0\prog_lang3.pdb
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.csproj.AssemblyReference.cache
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.AssemblyInfoInputs.cache
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.AssemblyInfo.cs
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.csproj.CoreCompileInputs.cache
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.dll
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\refint\prog_lang3.dll
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.pdb
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\prog_lang3.genruntimeconfig.cache
+C:\Users\Helga\Desktop\лабы\4 курс\1 семестр\яп\khm-main\олино\prog_lang3\prog_lang3\obj\Debug\net6.0\ref\prog_lang3.dll
